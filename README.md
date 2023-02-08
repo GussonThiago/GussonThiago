@@ -14,8 +14,3 @@ I am currently working on NLP models using deep learning<br>I’m looking to col
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GussonThiago&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=GussonThiago&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
